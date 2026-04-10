@@ -12,7 +12,10 @@
   "https://oozrev.fit/catalog/320/Silver-King-of-the-Night": 500,
   "https://oozrev.fit/catalog/317/The-Azure-Gate-Bridge": 1000,
   "https://oozrev.fit/catalog/387/Skeleton-Lord": 1750,
-  "https://oozrev.fit/catalog/401/Tasteful-Top-Hat": 1850,
+  "https://oozrev.fit/catalog/401/Tasteful-Top-Hat": {
+    "value": 1500,
+    "hoarded": true
+  }
   "https://oozrev.fit/catalog/327/Pink-Sparkle-Time-Fedora": 2500,
   "https://oozrev.fit/catalog/345/Ops-Warrior": 1250,
   "https://oozrev.fit/catalog/338/Rupaws-Headphones": 1000,
